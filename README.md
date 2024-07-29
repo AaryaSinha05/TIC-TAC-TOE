@@ -22,4 +22,4 @@ FUNCTIONS AND FEATURES OF THE PROPOSED SYSTEM:
 - It includes
     - computer vs player
     - player vs player.
-  The user has to choose accordingly.
+The user has to choose accordingly.
