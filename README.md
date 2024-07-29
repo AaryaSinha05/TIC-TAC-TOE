@@ -1,4 +1,4 @@
-# TIC-TAC-TOE(Recreated)
+# TIC-TAC-TOE
 
 The game is very popular and fairly simple by itself. It is a 2-player game. Here, there is a board with 3×3 squares. The goal of the game is for players to position their marks so that they make continuous lines either vertically, horizontally or diagonally. An opponent can prevent a win by blocking the completion of the opponent's line.
 
