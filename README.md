@@ -21,5 +21,5 @@ FUNCTIONS AND FEATURES OF THE PROPOSED SYSTEM:
 - Multiple if-else statements will also be used for checking whether theplayer has entered a valid input, for filling the blocks themselves, and so on.
 - It includes
     - computer vs player
-    - player vs player.
+    - player vs player<br>
 The user has to choose accordingly.
