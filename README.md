@@ -19,4 +19,7 @@ FUNCTIONS AND FEATURES OF THE PROPOSED SYSTEM:
 
 - This project will be implementing quite a few features that Python provides. For creating the game board, a dictionary will be used. In Python, dictionaries are mutable, unordered collections which store elements in the form of key:value pairs, which associate keys to values.
 - Multiple if-else statements will also be used for checking whether theplayer has entered a valid input, for filling the blocks themselves, and so on.
-- It includes computer vs player and player vs player. The user has to choose accordingly.
+- It includes
+    - computer vs player
+    - player vs player.
+  The user has to choose accordingly.
